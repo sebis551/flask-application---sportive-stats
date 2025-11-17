@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# flask-application---sportive-stats
+ A python server that will handle a series of requests starting from a data set in *csv* (comma separated values) format. The server will provide statistics based on the data in the csv.
+>>>>>>> 9d2feff6cbc7b131533ee2193f57376e38bbf203
 # Multi-threaded Flask Server for US Health Statistics
 
 This project implements a multi-threaded Flask server that provides statistical analysis on a dataset of nutrition, physical activity, and obesity in the United States between 2011 and 2022. The server handles concurrent requests using a thread pool and a job queue system, storing results on disk to simulate a lightweight database.
